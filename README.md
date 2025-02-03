@@ -1,6 +1,8 @@
 # Tableau-EV-Car-Manufacturing-And-Sales
 This project explores EV sales data to identify key trends in adoption, manufacturer performance, and regional distribution. It offers interactive dashboards for in-depth analysis, helping businesses and policymakers make data-driven decisions.
 
+# Tableau Public Link:- https://public.tableau.com/app/profile/gaurav.bhangale/viz/EVSalesAnalysis_17385645202950/Dashboard1
+
 
 # EV Sales Analysis 🚗⚡
 
